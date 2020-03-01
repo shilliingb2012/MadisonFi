@@ -1,8 +1,8 @@
-title: "The Butler"
+title: "Madison Financial Independence"
 baseline: "Your blogging assistant."
-description: "A ready to use static blog, powered by Cecil."
+description: "Site description test"
 keywords: "Cecil, Static Site Generator, SSG"
-author: "Arnaud Ligny"
+author: "Brock Shilling"
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
